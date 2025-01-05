@@ -15,7 +15,17 @@ Veuillez supprimer les options qui ne sont pas pertinentes.
 
 ## Comment cela a-t-il été testé ?
 
-Veuillez décrire les tests que vous avez effectués pour vérifier vos modifications. Fournissez des instructions pour que nous puissions reproduire. Veuillez également lister les détails pertinents pour votre configuration de test.
+Veuillez décrire les tests que vous avez effectués pour vérifier vos modifications. Fournissez des instructions pour que nous puissions reproduire. Veuillez également lister les détails pertinents des tests effectués.
+
+### Instructions de test
+
+- **Test Visuel** : Ouvrez votre site web dans plusieurs navigateurs (Chrome, Firefox, Edge) et sur différents appareils (ordinateur, tablette, smartphone) pour vérifier que tout s'affiche correctement.
+- **Validation de Code** : Utilisez des validateurs en ligne pour vérifier la validité de votre code HTML et CSS.
+  - [W3C HTML Validator](https://validator.w3.org/)
+  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- **Tests de Responsivité** : Utilisez des outils comme les DevTools des navigateurs (F12) pour tester la responsivité de votre site. Vous pouvez également utiliser des outils en ligne comme [Responsinator](http://www.responsinator.com/).
+- **Tests d'Accessibilité** : Utilisez des outils comme [Lighthouse](https://developers.google.com/web/tools/lighthouse) intégré dans Chrome DevTools pour vérifier l'accessibilité de votre site.
+- **Tests de Performance** : Utilisez des outils comme [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) pour analyser la performance de votre site.
 
 - [ ] Test A
 - [ ] Test B
