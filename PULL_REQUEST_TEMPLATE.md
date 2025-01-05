@@ -1,32 +1,32 @@
 ## Description
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Veuillez inclure un résumé de la modification et quel problème est résolu. Veuillez également inclure la motivation et le contexte pertinents. Listez toutes les dépendances requises pour ce changement.
 
-Fixes #(issue)
+Fixe #(issue)
 
-## Type of change
+## Type de changement
 
-Please delete options that are not relevant.
+Veuillez supprimer les options qui ne sont pas pertinentes.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] Correction de bug (changement non disruptif qui corrige un problème)
+- [ ] Nouvelle fonctionnalité (changement non disruptif qui ajoute une fonctionnalité)
+- [ ] Changement disruptif (correction ou fonctionnalité qui pourrait casser le fonctionnement existant)
+- [ ] Ce changement nécessite une mise à jour de la documentation
 
-## How Has This Been Tested?
+## Comment cela a-t-il été testé ?
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
+Veuillez décrire les tests que vous avez effectués pour vérifier vos modifications. Fournissez des instructions pour que nous puissions reproduire. Veuillez également lister les détails pertinents pour votre configuration de test.
 
 - [ ] Test A
 - [ ] Test B
 
-## Checklist:
+## Liste de contrôle :
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] Mon code suit les directives de style de ce projet
+- [ ] J'ai effectué une auto-évaluation de mon propre code
+- [ ] J'ai commenté mon code, en particulier dans les zones difficiles à comprendre
+- [ ] J'ai apporté les modifications correspondantes à la documentation
+- [ ] Mes modifications ne génèrent pas de nouveaux avertissements
+- [ ] J'ai ajouté des tests qui prouvent que ma correction est efficace ou que ma fonctionnalité fonctionne
+- [ ] Les nouveaux et anciens tests unitaires passent localement avec mes modifications
+- [ ] Tous les changements dépendants ont été fusionnés et publiés dans les modules en aval
