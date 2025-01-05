@@ -27,6 +27,6 @@ Nous sommes ouverts aux contributions ! Pour contribuer :
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations. 📜
 
 ## 📞 Contact
-Pour toute question ou suggestion, veuillez nous contacter à [email@example.com](mailto:lawsonkarl76àgmail.com) 📧
+Pour toute question ou suggestion, veuillez nous contacter à [lawsonkarl76@gmail.com](mailto:lawsonkarl76àgmail.com) 📧
 
 Merci de votre visite ! 🙏
