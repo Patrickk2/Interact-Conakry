@@ -1,4 +1,171 @@
-img {
-    width: 100px;
-    height: 100px;
+/* Basic Reset & Defaults */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth; /* Smooth scrolling for anchor links */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4; /* Light gray background */
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden; /* Clear floats */
+    padding: 0 20px;
+}
+
+/* Header Styling */
+header {
+    background: #0050a2; /* Rotary Blue */
+    color: #fff;
+    padding: 1rem 0;
+    position: sticky; /* Sticky header */
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+header #logo-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%; /* Contained within header */
+    margin: auto;
+}
+
+header .logo img {
+    width: 70px; /* Specific size for logo */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle;
+}
+
+header .logo-text {
+    font-size: 1.2rem;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+    transition: background-color 0.3s;
+}
+
+header nav ul li a:hover,
+header nav ul li a.active { /* Basic active link styling */
+    background-color: #f7a81b; /* Rotary Gold for hover/active */
+    border-radius: 4px;
+}
+
+/* Hero Section */
+#hero {
+    background: #0050a2; /* Match header, or use an image later */
+    color: #fff;
+    padding: 60px 20px;
+    text-align: center;
+    min-height: 300px; /* Give it some height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+#hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #f7a81b; /* Rotary Gold */
+    color: white;
+    padding: 12px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #e69100; /* Darker gold on hover */
+}
+
+/* General Section Styling */
+main section {
+    padding: 40px 20px; /* Padding for content sections */
+    border-bottom: 1px solid #ddd; /* Separator between sections */
+}
+
+main section:last-child {
+    border-bottom: none;
+}
+
+main section h2 {
+    text-align: center;
+    color: #0050a2; /* Rotary Blue for section titles */
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+
+main section h3 {
+    color: #0050a2; /* Rotary Blue for sub-titles */
+    margin-bottom: 15px;
+}
+
+/* Placeholder section styling */
+.placeholder-section {
+    background-color: #fff; /* White background for content sections */
+}
+
+/* About Section Specifics (if any needed beyond general) */
+#about .container { /* Example if container class is used inside section */
+    padding-top: 20px;
+}
+
+#about .about-text ul {
+    list-style-position: inside;
+    padding-left: 20px; /* Indent list */
+}
+
+#about .about-text ul li {
+    margin-bottom: 5px;
+}
+
+
+/* Footer Styling */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 20px; /* Ensure space above footer */
 }
