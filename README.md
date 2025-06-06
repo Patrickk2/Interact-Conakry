@@ -1,14 +1,15 @@
 # 🎉 Interact Conakry 🌍
 
-Bienvenue sur le site interactif pour découvrir et promouvoir les événements, initiatives et actualités de **Interact Conakry**! 🚀
+Bienvenue sur le site officiel de **Interact Club Conakry**! 🚀
 
 ## 🌟 Description
-Interact Conakry est une plateforme dédiée à la mise en avant des événements et initiatives locales. Notre objectif est de fournir une visibilité aux activités qui font bouger notre communauté. 🎤🎨🎉
+Ce site a pour objectif de présenter l'Interact Club Conakry, ses missions, ses membres et ses activités au service de la communauté. 🎤🎨🎉
 
-## 🚀 Fonctionnalités
-- 🔍 **Découverte d'événements** : Trouvez des événements intéressants autour de vous.
-- 📅 **Calendrier des initiatives** : Restez à jour avec les initiatives locales.
-- 📰 **Actualités** : Lisez les dernières nouvelles et articles sur notre communauté.
+## 🚀 Fonctionnalités (Objectifs)
+- ℹ️ **Présentation du club** : Découvrez qui nous sommes, notre mission et nos valeurs.
+- 🤝 **Nos Actions** : Informez-vous sur nos projets passés, en cours et à venir.
+- 📅 **Événements** : Suivez notre calendrier d'activités et d'événements.
+- 📞 **Contact** : Trouvez comment nous joindre ou vous impliquer.
 
 ## 🛠️ Installation
 1. Clonez le dépôt : `git clone https://github.com/Patrickk2/Interact-Conakry.git` 🖥️
@@ -27,6 +28,6 @@ Nous sommes ouverts aux contributions ! Pour contribuer :
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations. 📜
 
 ## 📞 Contact
-Pour toute question ou suggestion, veuillez nous contacter à [lawsonkarl76@gmail.com](mailto:lawsonkarl76àgmail.com) 📧
+Pour toute question ou suggestion, veuillez nous contacter à [lawsonkarl76@gmail.com](mailto:lawsonkarl76@gmail.com) 📧
 
 Merci de votre visite ! 🙏
